@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fine Books</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Fine Books</string>
+    <string name="address">Address: 9, University Street, Middleton, United States</string>
+    <string name="phone">Phone: 892-8423-9483</string>
+    <string name="description">A serene coffee shop for all your Java needs. Coffee is freshly brewed every Sunday and Wednesday to maintain the taste and quality of our service. We also server the best bagels and sandwiches in the town.</string>
+</resources>
